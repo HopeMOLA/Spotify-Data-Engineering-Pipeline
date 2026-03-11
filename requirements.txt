@@ -1,0 +1,5 @@
+pandas
+spotipy
+pyodbc
+jupyter
+sqlalchemy
